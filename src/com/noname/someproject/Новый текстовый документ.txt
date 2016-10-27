@@ -1,0 +1,12 @@
+Java 8
+JSP/Servlets
+Microservices
+Spring core (IoC)
+HTML, JavaScript, AJAX, DWR, jQuery
+ATG 10
+Soap Web-Services (Axis)
+REST Web-Services (Jersey)
+SQL
+JUnit/Mockito/Spock
+Ant/Maven
+Svn/Git
